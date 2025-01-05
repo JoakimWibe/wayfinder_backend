@@ -1,0 +1,6 @@
+@WayfinderBackend.Api_HostAddress = http://localhost:5011
+
+GET {{WayfinderBackend.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
